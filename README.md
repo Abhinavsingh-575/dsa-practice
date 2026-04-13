@@ -7,6 +7,7 @@ practicing data structures and algorithms.
 
 ## Topics
 - Arrays
+  - TwoSum.java
 - Strings
 - Sorting
 
